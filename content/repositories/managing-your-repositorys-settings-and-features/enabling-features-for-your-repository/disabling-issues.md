@@ -1,4 +1,4 @@
----
+Chanyanut​1103701965541​---
 title: Disabling issues
 intro: You may wish to turn issues off for your repository if you do not accept contributions or bug reports.
 redirect_from:
